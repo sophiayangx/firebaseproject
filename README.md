@@ -1,0 +1,2 @@
+# firebaseproject
+Classadoo generated repo
