@@ -4,6 +4,7 @@ var firebaseConfig = {
   databaseURL: "https://classadoo-dev.firebaseio.com"	
 };
 
+
 firebase.initializeApp(firebaseConfig);
 
 var store = firebase.database().ref("challenge-2")
