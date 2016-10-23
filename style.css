@@ -1,5 +1,5 @@
 body {
-  background:                    url("https://images7.alphacoders.com/396/396289.jpg") 1000px 1000px no-repeat,  );
+  background:                    url("https://images7.alphacoders.com/396/396289.jpg") 1000px 1000px repeat 1;        
   opacity: 80%;
   background-size: contain
 }
