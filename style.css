@@ -1,3 +1,9 @@
+body {
+  background-image: url("https://images7.alphacoders.com/396/396289.jpg");
+  opacity: 80%;
+  background-size: contain
+}
+
 #title {
   text-align: center;
   margin-top: 50%;
@@ -5,8 +11,4 @@
   font-size: 50px;
   color: white;
   text-decoration: bold;
-}
-
-#image1 {
-  object-fit: fill;
 }
