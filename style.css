@@ -1,13 +1,11 @@
 body {
-  background:                    url("https://static1.squarespace.com/static/55ca5c3ee4b00863c0b9cfae/t/55f79f45e4b051cfcc0d2751/1442291529158/DSC_0367.jpg") 10px 10px no-repeat,        url("https://images7.alphacoders.com/396/396289.jpg");
+  background:                    url("https://images7.alphacoders.com/396/396289.jpg") 0px 0px no-repeat,        url("https://static1.squarespace.com/static/55ca5c3ee4b00863c0b9cfae/t/55f79f45e4b051cfcc0d2751/1442291529158/DSC_0367.jpg");
   opacity: 80%;
   background-size: contain
 }
 
 #title {
   text-align: center;
-  margin-top: 50%;
-  margin-bottom: 50%;
   font-size: 50px;
   color: white;
   text-decoration: bold;
