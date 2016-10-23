@@ -1,6 +1,7 @@
 body {
   background-image: url("https://images7.alphacoders.com/396/396289.jpg");
   opacity: 80%;
+  object-fit: cover;
 }
 
 #title {
