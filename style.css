@@ -1,5 +1,6 @@
 body {
   background-image: url("https://images7.alphacoders.com/396/396289.jpg");
+  opacity: 80%;
 }
 
 #title {
@@ -8,5 +9,5 @@ body {
   margin-bottom: 50%;
   font-size: 50px;
   color: white;
-  
+  text-decoration: bold;
 }
