@@ -23,6 +23,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 20;
+  margin-left: 50px;
   overflow: hidden;
   position: block;
   opacity: 0.5;
