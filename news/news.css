@@ -1,5 +1,43 @@
 body {
   background: url("http://cdn.skim.gs/image/upload/v1456337732/msi/creme_brulee_rglqjo.jpg");
   background-size: contain;
-  background-repeat: 
+  background-repeat: no-repeat;
+}
+
+#title {
+  vertical-align: text-bottom;
+  text-align: center;
+  font-size: 50px;
+  color: lightgrey;
+  text-decoration: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20;
+  overflow: hidden;
+  position: fixed;
+  opacity: 0.5;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-family: Helvetica;
+}
+
+li a {
+  display: block;
+  padding: 15px 16px;
+  text-decoration: none;
+  text-align: center;
+  float: left;
+  color: black;
+}
+
+li a:active {
+  color: darkgrey;
+}
+
+li a:hover {
+  color: white;
 }
