@@ -1,0 +1,51 @@
+/*
+body {
+  background:                       url("https://static1.squarespace.com/static/55ca5c3ee4b00863c0b9cfae/t/55f79f45e4b051cfcc0d2751/1442291529158/DSC_0367.jpg") 0px 0px no-repeat,
+  url("http://cdn.skim.gs/image/upload/v1456337732/msi/creme_brulee_rglqjo.jpg");
+  opacity: 80%;
+  background-size: contain;
+}
+*/
+
+body {
+  background: url("https://images7.alphacoders.com/396/396289.jpg")
+}
+
+#title {
+  vertical-align: text-bottom;
+  text-align: center;
+  font-size: 50px;
+  color: lightgrey;
+  text-decoration: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20;
+  margin-left: 50px;
+  overflow: hidden;
+  position: block;
+  opacity: 0.5;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-family: Helvetica;
+}
+
+li a {
+  display: block;
+  padding: 15px 16px;
+  text-decoration: none;
+  text-align: center;
+  float: left;
+  color: black;
+}
+
+li a:active {
+  color: darkgrey;
+}
+
+li a:hover {
+  color: white;
+}
