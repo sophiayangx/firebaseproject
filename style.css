@@ -24,7 +24,7 @@ ul {
   margin: 0;
   padding: 20;
   overflow: hidden;
-  position: fixed;
+  position: block;
   opacity: 0.5;
   width: 100%;
   top: 0;
