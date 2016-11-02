@@ -44,8 +44,10 @@ li a {
 
 li a:active {
   color: darkgrey;
+  text-decoration: none;
 }
 
 li a:hover {
   color: white;
+  te: none;
 }
