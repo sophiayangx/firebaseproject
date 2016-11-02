@@ -43,6 +43,6 @@ li a {
   background-color: skyblue;
 }
 
-ul a:hover {
-  background-color: cadetblue;
+li a:hover {
+  color: cadetblue;
 }
