@@ -49,5 +49,5 @@ li a:active {
 
 li a:hover {
   color: white;
-  te: none;
+  text-decoration: none;
 }
