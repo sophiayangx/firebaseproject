@@ -42,7 +42,7 @@ li a {
 }
 
 .active {
-  color: lightpink;
+  color: darkgrey;
 }
 
 li a:hover {
