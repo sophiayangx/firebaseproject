@@ -8,9 +8,9 @@ background-size: contain;
 */
 
 body {
-  background: url("https://images7.alphacoders.com/396/396289.jpg");0px 0px no-repeat;
+  background: url("https://images7.alphacoders.com/396/396289.jpg")0px 0px no-repeat;
   background-size: contain;
-  background: no
+/*  background: nore*/
 }
 
 #title {
