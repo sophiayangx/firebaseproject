@@ -1,11 +1,9 @@
-/*
 body {
   background:                       url("https://static1.squarespace.com/static/55ca5c3ee4b00863c0b9cfae/t/55f79f45e4b051cfcc0d2751/1442291529158/DSC_0367.jpg") 0px 0px no-repeat,
   url("http://cdn.skim.gs/image/upload/v1456337732/msi/creme_brulee_rglqjo.jpg");
   opacity: 80%;
   background-size: contain
 }
-*/
 
 #title {
   vertical-align: text-bottom;
@@ -43,7 +41,7 @@ li a {
   background-color: #5F9F9F;
 }
 
-li a:hover {
+ul a:hover {
   background-color: white;
     ;
 }
