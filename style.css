@@ -43,7 +43,7 @@ li a {
 }
 
 li a:active {
-  color: green;
+  color: lightgrey;
   text-decoration: none;
 }
 
